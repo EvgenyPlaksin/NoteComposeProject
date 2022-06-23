@@ -1,4 +1,4 @@
-package com.lnight.notecomposeproject.ui.theme
+package com.lnight.notecomposeproject.feature_note.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
