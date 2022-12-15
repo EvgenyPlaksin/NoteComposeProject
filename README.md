@@ -1,5 +1,5 @@
 # NoteComposeProject
-Simple note application
+A simple note application
 
 ### Technologies
 - **UI** - [Jetpack Compose](https://developer.android.com/jetpack/compose)
